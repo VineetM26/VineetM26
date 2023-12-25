@@ -11,4 +11,7 @@ Currently, I'm working at TNS, India where I specialize in turning design concep
 
 Let's build something amazing together! 🚀
 
-[![text](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vineetm26/)
+[![Linkedin Badge](https://img.shields.io/badge/-SwapnilSparsh-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/swapnilsparsh)](https://www.linkedin.com/in/vineetm26/)
+[![Twitter Badge](http://img.shields.io/badge/-@swapnilsparsh-1ca0f1?style=social&logo=twitter&logoColor=blue&link=https://twitter.com/swapnilsparsh)](https://twitter.com/vineet_m26) 
+[![Gmail Badge](https://img.shields.io/badge/-GMail-c14438?style=social&logo=Gmail&logoColor=red&link=mailto:maddheshiyavineet7800@gmail.com)](mailto:maddheshiyavineet7800@gmail.com)
+
