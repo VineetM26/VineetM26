@@ -8,6 +8,7 @@ Currently, I'm working at TNS, India where I specialize in turning design concep
 - React.js
 - Responsive Web Design
 - Git, GitHub Actions
+- Shell Scripting
 
 Let's build something amazing together! 🚀
 
