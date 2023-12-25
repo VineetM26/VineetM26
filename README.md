@@ -10,3 +10,5 @@ Currently, I'm working at TNS, India where I specialize in turning design concep
 - Git, GitHub Actions
 
 Let's build something amazing together! 🚀
+
+[![text](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vineetm26/)
