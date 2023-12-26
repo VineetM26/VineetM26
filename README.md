@@ -1,5 +1,5 @@
-<h3>Radhe Radhe🙏</h3>I'm Vineet Maddheshiya, A passionate frontend developer with a love for creating seamless and engaging user experiences.<br> 
-Currently, I'm working at TNS, India where I specialize in turning design concepts into responsive and interactive web applications.
+<h3>Radhe Radhe🙏</h3><p>I'm Vineet Maddheshiya, A passionate frontend developer with a love for creating seamless and engaging user experiences.<br> 
+Currently, I'm working at TNS, India where I specialize in turning design concepts into responsive and interactive web applications.</p>
 
 
 🔧 Tech Stack:
