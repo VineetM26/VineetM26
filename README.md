@@ -1,19 +1,20 @@
 <h4>Radhe Radhe🙏</h4>
-<p>I'm Vineet Maddheshiya, a passionate DevOps Engineer focused on building, automating, and maintaining scalable, reliable, and secure infrastructure.
-Currently, I’m working at TNS, India, where I specialize in CI/CD pipelines, cloud infrastructure, automation, and system reliability.</p>
+<p>
+Hey, I’m Vineet Maddheshiya - a DevOps Engineer who likes building reliable systems and automating things that should never be manual.
+From CI/CD pipelines to cloud infrastructure, I enjoy figuring out how everything fits together.
+At TNS, India, I work on making deployments faster, infrastructure stable, and systems easier to manage
+</p>
 
 
 🔧 Tech Stack:
 
 - **Cloud Platforms:** AWS (EC2, S3, IAM, VPC, CloudWatch)
 - **CI/CD Tools:** GitHub Actions, Jenkins
-- **Containerization:** Docker, Docker Compose
-- **Orchestration:** Kubernetes (Basics)
 - **Infrastructure as Code:** Terraform (Basics)
 - **Version Control:** Git, GitHub
 - **Automation & Scripting:** Shell Scripting (Bash)
 - **Monitoring & Logging:** CloudWatch, Prometheus (Basics)
-- **Operating Systems:** Linux (Ubuntu, RHEL
+- **Operating Systems:** Linux (Ubuntu, RHEL)
 
 
 
