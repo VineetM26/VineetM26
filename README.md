@@ -1,13 +1,21 @@
-<h4>Radhe Radhe🙏</h4><p>I'm Vineet Maddheshiya, A passionate frontend developer with a love for creating seamless and engaging user experiences.<br> 
-Currently, I'm working at TNS, India where I specialize in turning design concepts into responsive and interactive web applications.</p>
+<h4>Radhe Radhe🙏</h4><p>
+I'm Vineet Maddheshiya, a passionate DevOps Engineer focused on building, automating, and maintaining scalable, reliable, and secure infrastructure.
+Currently, I’m working at TNS, India, where I specialize in CI/CD pipelines, cloud infrastructure, automation, and system reliability.
+.</p>
 
 
 🔧 Tech Stack:
-- HTML5, CSS3, JavaScript (ES6+)
-- React.js
-- Responsive Web Design
-- Git, GitHub Actions
-- Shell Scripting
+
+- **Cloud Platforms: AWS (EC2, S3, IAM, VPC, CloudWatch)
+- **CI/CD Tools: GitHub Actions, Jenkins
+- **Containerization: Docker, Docker Compose
+- **Orchestration: Kubernetes (Basics)
+- **Infrastructure as Code:** Terraform (Basics)
+- **Version Control:** Git, GitHub
+- **Automation & Scripting:** Shell Scripting (Bash)
+- **Monitoring & Logging:** CloudWatch, Prometheus (Basics)
+- **Operating Systems:** Linux (Ubuntu, RHEL)
+
 
 Let's build something amazing together! 🚀
 
