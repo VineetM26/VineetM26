@@ -1,7 +1,7 @@
-<h4>Radhe Radhe🙏</h4><p>
-I'm **Vineet Maddheshiya** a passionate **DevOps Engineer** focused on building, automating, and maintaining scalable, reliable, and secure infrastructure.
-Currently, I’m working at **TNS, India**, where I specialize in CI/CD pipelines, cloud infrastructure, automation, and system reliability.
-</p>
+<h4>Radhe Radhe🙏</h4>
+<p>I'm **Vineet Maddheshiya**, a passionate **DevOps Engineer** focused on building, automating, and maintaining scalable, reliable, and secure infrastructure.
+Currently, I’m working at **TNS, India**, where I specialize in CI/CD pipelines, cloud infrastructure, automation, and system reliability.</p>
+
 
 🔧 Tech Stack:
 
