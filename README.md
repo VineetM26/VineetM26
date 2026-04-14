@@ -10,7 +10,7 @@ At TNS, India, I work on making deployments faster, infrastructure stable, and s
 
 - **Cloud Platforms:** AWS, Azure
 - **CI/CD Tools:** GitHub Actions, Azure pipeline
-- **Infrastructure as Code:** Terraform (Basics)
+- **Infrastructure as Code:** Terraform
 - **Version Control:** Git, GitHub
 - **Automation & Scripting:** Shell Scripting (Bash)
 - **Monitoring & Logging:** CloudWatch, Prometheus (Basics)
