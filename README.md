@@ -8,8 +8,8 @@ At TNS, India, I work on making deployments faster, infrastructure stable, and s
 
 🔧 Tech Stack:
 
-- **Cloud Platforms:** AWS (EC2, S3, IAM, VPC, CloudWatch)
-- **CI/CD Tools:** GitHub Actions, Jenkins
+- **Cloud Platforms:** AWS, Azure
+- **CI/CD Tools:** GitHub Actions, Azure pipeline
 - **Infrastructure as Code:** Terraform (Basics)
 - **Version Control:** Git, GitHub
 - **Automation & Scripting:** Shell Scripting (Bash)
