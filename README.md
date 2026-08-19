@@ -1,4 +1,3 @@
-#<h4>Hi</h4>
 <p>
 Hey, I’m Vineet Maddheshiya - a DevOps Engineer who likes building reliable systems and automating things that should never be manual.
 From CI/CD pipelines to cloud infrastructure, I enjoy figuring out how everything fits together.
